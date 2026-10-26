@@ -33,8 +33,8 @@ An AI-powered document query system that lets you search through your documents 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/document-explorer.git
-cd document-explorer
+git clone https://github.com/farahnas/Docu-Mind.git
+cd Docu-Mind
 
 # Create virtual environment
 python -m venv venv
